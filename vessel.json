@@ -1,0 +1,37 @@
+{
+    "data": {
+        "status": true,
+        "details": [
+            {
+                "id": 9,
+                "name": "Sora3",
+                "license_number": "-",
+                "uvi": "KKP/1/X/2023 / KKP UVI / 2025-01-10",
+                "motr_mark": "-",
+                "vessel_type": "Bow Rider",
+                "gear": "Handline (Other)",
+                "gt": "2 GT",
+                "shark_policy": false,
+                "iuu_list": false,
+                "conduct_code": false,
+                "captain": "Zora",
+                "district": "Denpasar"
+            },
+            {
+                "id": 12,
+                "name": "Hari",
+                "license_number": "-",
+                "uvi": "* KKPRI/1/X/2024 / SIPI / 2025-01-16",
+                "motr_mark": "-",
+                "vessel_type": "Bow Rider",
+                "gear": "Handline",
+                "gt": "1 GT",
+                "shark_policy": false,
+                "iuu_list": false,
+                "conduct_code": false,
+                "captain": "Cimo",
+                "district": "Atulintang"
+            }
+        ]
+    }
+}
